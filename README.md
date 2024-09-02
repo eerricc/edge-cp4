@@ -1,8 +1,6 @@
 # **Checkpoint 4**
 
-> texto1
-
-> texto2
+> CP4 - Setup FIWARE / Conexão do ESP32
 
 ## 📋 Pré-requisitos
 + Ter o arduino IDE instalado em sua máquina, para rodar os códigos da placa.
